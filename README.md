@@ -33,6 +33,7 @@
 
 ---
 
+<-- 
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -43,6 +44,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcgaibor&theme=radical&hide_border=true" alt="lcgaibor" />
 </div>
 
+--/>
+*/
 ---
 
 ## 🚀 Featured Projects
@@ -50,29 +53,27 @@
 > 🔧 **Próximamente...** Trabajando en proyectos increíbles que pronto estarán disponibles aquí.
 
 ### 📋 Proyectos Planeados:
-- 🌐 **Aplicación Web Full-Stack** - Sistema de gestión con React y Node.js
-- 📱 **App Móvil** - Aplicación multiplataforma con React Native
+- 🌐 **Aplicación Web ** - Sistema de gestión MutanTech
 - 🤖 **Proyecto de IA** - Implementación de machine learning con Python
 - 💼 **Portfolio Personal** - Sitio web profesional responsive
 
 ---
 
-## 🤝 Connect with me
-
+🤝 Connect with me
 <p align="center">
-  <a href="mailto:tu.email@gmail.com">
+  <a href="mailto:leslygaibor.personal@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/lesly-gaibor-8053a6380" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/lcgaibor" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
+  <a href="https://x.com/Les7u7" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/tu-usuario" target="_blank">
+  <a href="https://www.instagram.com/leslyyy_25/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
@@ -91,4 +92,4 @@
 
 ---
 
-<sub>🔄 **Last updated:** $(date)</sub>
+<sub>🔄 Last updated: Agosto 2025</sub>
