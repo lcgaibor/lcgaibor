@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lesly Carolina Gaibor
+# Hi 👋, I'm Lesly Gaibor
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
 
