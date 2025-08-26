@@ -57,7 +57,7 @@
 > 🔧 **Próximamente...** Trabajando en proyectos increíbles que pronto estarán disponibles aquí.
 
 ### 📋 Proyectos Planeados:
-- 🌐 **Aplicación Web ** - Sistema de gestión MutanTech
+- 🌐 **Aplicación Web** - Sistema de gestión MutanTech
 - 🤖 **Proyecto de IA** - Implementación de machine learning con Python
 - 💼 **Portfolio Personal** - Sitio web profesional responsive
 
