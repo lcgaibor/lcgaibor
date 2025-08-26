@@ -8,7 +8,7 @@
 
 
 🎓 **Tecnologías de la Información - ESPE**  
-💻 **Aprendiendo constantemente nuevas tecnologías**  
+💻 **Aprendiendo nuevas tecnologías**  
 
 <br clear="right"/>
 
@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-> 🔧 **Próximamente...** Trabajando en proyectos increíbles que pronto estarán disponibles aquí.
+> 🔧 **Próximamente...** Trabajando en proyectos que pronto estarán disponibles aquí.
 
 ### 📋 Proyectos Planeados:
 - 🌐 **Aplicación Web** - Sistema de gestión MutanTech
