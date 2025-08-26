@@ -1,5 +1,7 @@
 # Hi 👋, I'm Lesly Carolina Gaibor
 
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **Tecnologías de la Información - ESPE**  
@@ -32,8 +34,8 @@
 </div>
 
 ---
+<!--
 
-<-- 
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -44,9 +46,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcgaibor&theme=radical&hide_border=true" alt="lcgaibor" />
 </div>
 
---/>
-*/
 ---
+-->
 
 ## 🚀 Featured Projects
 
@@ -84,12 +85,14 @@
   <img src="https://komarev.com/ghpvc/?username=lcgaibor&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lcgaibor" />
 </div>
 
+
+<!--
 <div align="center">
   
   **"Code is like humor. When you have to explain it, it's bad."** – Cory House
   
 </div>
-
 ---
+-->
 
 <sub>🔄 Last updated: Agosto 2025</sub>
